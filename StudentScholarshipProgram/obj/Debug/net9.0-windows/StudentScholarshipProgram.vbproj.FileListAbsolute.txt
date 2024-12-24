@@ -1,0 +1,8 @@
+C:\Users\eyara\source\repos\cvsu101\StudentScholarshipProgram\obj\Debug\net9.0-windows\StudentScholarshipProgram.Main.resources
+C:\Users\eyara\source\repos\cvsu101\StudentScholarshipProgram\obj\Debug\net9.0-windows\StudentScholarshipProgram.vbproj.GenerateResource.cache
+C:\Users\eyara\source\repos\cvsu101\StudentScholarshipProgram\obj\Debug\net9.0-windows\StudentScholarshipProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eyara\source\repos\cvsu101\StudentScholarshipProgram\obj\Debug\net9.0-windows\StudentScholarshipProgram.AssemblyInfoInputs.cache
+C:\Users\eyara\source\repos\cvsu101\StudentScholarshipProgram\obj\Debug\net9.0-windows\StudentScholarshipProgram.AssemblyInfo.vb
+C:\Users\eyara\source\repos\cvsu101\StudentScholarshipProgram\obj\Debug\net9.0-windows\StudentScholarshipProgram.vbproj.CoreCompileInputs.cache
+C:\Users\eyara\source\repos\cvsu101\StudentScholarshipProgram\obj\Debug\net9.0-windows\StudentScholarshipProgram.sourcelink.json
+C:\Users\eyara\source\repos\cvsu101\StudentScholarshipProgram\obj\Debug\net9.0-windows\StudentScholarshipProgram.Form1.resources

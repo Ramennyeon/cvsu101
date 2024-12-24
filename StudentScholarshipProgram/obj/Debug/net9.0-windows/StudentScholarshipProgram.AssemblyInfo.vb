@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("StudentScholarshipProgram"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+320e41370b71204a24835dd44e7ff0da34c7c47f"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55a575fd9913d882c0bb78370d97d7a21f8853ca"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("StudentScholarshipProgram"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("StudentScholarshipProgram"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
