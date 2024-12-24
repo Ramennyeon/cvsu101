@@ -32,12 +32,13 @@
 
 ```
 #### TODO
-```
-**1st create github account**
--Drop email/username in gc to be added as collaborator
 
-**2nd Paste given link to "Clone A Repository" in VS**
--Ignore ".vs " in GitChanges (Nasa loob nayan ng VS)
+```
+1st create github account
+  -Drop email/username in gc to be added as collaborator
+
+2nd Paste given link to "Clone A Repository" in VS
+  -Ignore ".vs " in GitChanges (Nasa loob nayan ng VS)
 ```
 
 #### PRACTICE
@@ -50,7 +51,7 @@
 
 -Work on your respective branches (Why? para controlled)
 
--When there's merge conflict **DO NOT OVERWRITE** your collaborators code
+-When there's merge conflict DO NOT OVERWRITE your collaborators code
 
 -Mention Eyara when done in part (Why? so it can be uploaded/confirmed)
 ```
